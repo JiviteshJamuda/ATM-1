@@ -30,6 +30,4 @@ account.balanceEnquiry()
 
 # Now stop reading my comments/green letters and go get some health
 # this definitely shows NINJA : /\/ / /\/ _/ /\
-
-
 # Minecraft will show its rule again
